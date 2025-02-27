@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kevinblackledge/assignment-4-pointer-and-structure-yosoypapi/main'
+relocations:     []
+...
